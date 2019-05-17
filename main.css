@@ -22,29 +22,29 @@ div {
 /* id is # */
 
 #red {
-    color: red;
+    border-top-color: #f00;
 }
 
 #orange {
-    color: orange;
+    border-top-color: #ffa500;
 }
 
 #yellow {
-    color: yellow;
+    border-top-color: yellow;
 }
 
 #green {
-    color: green;
+    border-top-color: green;
 }
 
 #blue {
-    color: blue;
+    border-top-color: blue;
 }
 
 #indigo {
-    color: indigo;
+    border-top-color: indigo;
 }
 
 #violet {
-    color: violet;
+    border-top-color: violet;
 }
