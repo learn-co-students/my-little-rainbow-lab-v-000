@@ -11,9 +11,5 @@ div {
 }
 
 #red { /* this selects any elements with the red id */
-  border-top-color: #FFD700;
-}
-
-#red {
-  border-bottom-color:#F0E68C,
+  border-top-color: #FFD700, 	#DAA520; 
 }
