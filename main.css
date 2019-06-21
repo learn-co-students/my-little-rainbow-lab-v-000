@@ -13,3 +13,6 @@ div {
 #red { /* this selects any elements with the red id */
   border-top-color: #f00;
 }
+
+#violet { border-bottom: #d300c9;
+}
