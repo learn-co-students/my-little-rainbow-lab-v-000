@@ -80,7 +80,6 @@ RSpec.describe 'Navigation and Nested Elements' do
         expect(violet_div.name).to eq('div'), "Add the id 'violet' to the seventh div"
       end
     end
-
   end
 
 end
